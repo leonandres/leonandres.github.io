@@ -57,58 +57,58 @@
       <p class="text-secondary">Desarrollador apasionado por el código limpio, la optimización y la creatividad tecnológica.</p>
     </div>
 
-    <section>
-      <h2 class="section-title">🚀 Proyectos Destacados</h2>
-      <ul class="list-unstyled">
-        <li class="mb-3">
-          <span class="project-icon">🌦️</span>
-          <a class="project-link" href="https://github.com/leonandres/weather" target="_blank"><u>weather</u></a>
-          <div class="text-muted ms-4">Aplicación de clima desarrollada en Java con tecnologías modernas.</div>
-        </li>
-        <li class="mb-3">
-          <span class="project-icon">💿</span>
-          <a class="project-link" href="https://github.com/leonandres/leon.disqueria" target="_blank"><u>leon.disqueria</u></a>
-          <div class="text-muted ms-4">Sistema de gestión para disquerías, enfocado en organización y ventas de discos.</div>
-        </li>
-      </ul>
+  <section>
+    <h2 class="section-title">🚀 Proyectos Destacados</h2>
+    <ul class="list-unstyled">
+      <li class="mb-3">
+        <span class="project-icon">🌦️</span>
+        <a class="project-link" href="https://github.com/leonandres/weather" target="_blank"><u>weather</u></a>
+        <div class="text-muted ms-4">Aplicación de clima desarrollada en Java con tecnologías modernas.</div>
+      </li>
+      <li class="mb-3">
+        <span class="project-icon">💿</span>
+        <a class="project-link" href="https://github.com/leonandres/leon.disqueria" target="_blank"><u>leon.disqueria</u></a>
+        <div class="text-muted ms-4">Sistema de gestión para disquerías, enfocado en organización y ventas de discos.</div>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">🛠️ Skills</h2>
+    <ul class="list-inline">
+      <li class="list-inline-item badge bg-primary m-1">Java</li>
+      <li class="list-inline-item badge bg-secondary m-1">C#</li>
+      <li class="list-inline-item badge bg-info text-dark m-1">SQL</li>
+      <li class="list-inline-item badge bg-success m-1">Spring Boot</li>
+      <li class="list-inline-item badge bg-warning text-dark m-1">JSF</li>
+      <li class="list-inline-item badge bg-light text-dark m-1">Bootstrap</li>
+      <li class="list-inline-item badge bg-danger m-1">HTML</li>
+      <li class="list-inline-item badge bg-dark m-1">CSS</li>
+      <li class="list-inline-item badge bg-info text-dark m-1">JavaScript</li>
+      <li class="list-inline-item badge bg-primary m-1">Razor Pages</li>
+      <li class="list-inline-item badge bg-secondary m-1">JUnit</li>
+      <li class="list-inline-item badge bg-success m-1">Optimización SQL</li>
+    </ul>
     </section>
 
-    <section>
-      <h2 class="section-title">🛠️ Skills</h2>
-      <ul class="list-inline">
-        <li class="list-inline-item badge bg-primary m-1">Java</li>
-        <li class="list-inline-item badge bg-secondary m-1">C#</li>
-        <li class="list-inline-item badge bg-info text-dark m-1">SQL</li>
-        <li class="list-inline-item badge bg-success m-1">Spring Boot</li>
-        <li class="list-inline-item badge bg-warning text-dark m-1">JSF</li>
-        <li class="list-inline-item badge bg-light text-dark m-1">Bootstrap</li>
-        <li class="list-inline-item badge bg-danger m-1">HTML</li>
-        <li class="list-inline-item badge bg-dark m-1">CSS</li>
-        <li class="list-inline-item badge bg-info text-dark m-1">JavaScript</li>
-        <li class="list-inline-item badge bg-primary m-1">Razor Pages</li>
-        <li class="list-inline-item badge bg-secondary m-1">JUnit</li>
-        <li class="list-inline-item badge bg-success m-1">Optimización SQL</li>
-      </ul>
-    </section>
+  <section>
+    <h2 class = "section-title">🌱 Sobre Mí</h2>
+    <p>
+      Soy desarrollador con experiencia en aplicaciones de escritorio, web y microservicios. Me motiva la búsqueda de eficiencia y la relación entre emociones y tecnología. Actualmente aprendiendo C#, Python, Go y explorando nuevos retos.
+    </p>
+  </section>
 
-    <section>
-      <h2 class="section-title">🌱 Sobre Mí</h2>
-      <p>
-        Soy desarrollador con experiencia en aplicaciones de escritorio, web y microservicios. Me motiva la búsqueda de eficiencia y la relación entre emociones y tecnología. Actualmente aprendiendo C#, Python, Go y explorando nuevos retos.
-      </p>
-    </section>
+  <section>
+    <h2 class="section-title">📬 Contacto</h2>
+    <p>
+      ¿Colaboramos? Podes encontrarme en <a href="https://github.com/leonandres" target="_blank">GitHub</a>
+      o <a href="superandyblue@gmail.com">escribirme por email</a>.
+    </p>
+  </section>
 
-    <section>
-      <h2 class="section-title">📬 Contacto</h2>
-      <p>
-        ¿Colaboramos? Podes encontrarme en <a href="https://github.com/leonandres" target="_blank">GitHub</a>
-        o <a href="superandyblue@gmail.com">escribirme por email</a>.
-      </p>
-    </section>
-
-    <div class="footer">
-      <small>© 2025 León Andrés &mdash; Portfolio personal</small>
-    </div>
+  <div class="footer">
+    <small>© 2025 León Andrés &mdash; Portfolio personal</small>
+  </div>
   </main>
 </body>
 </html>
