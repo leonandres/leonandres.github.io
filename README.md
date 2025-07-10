@@ -1,7 +1,7 @@
 <!-- Perfil de LeonAndres | GitHub README -->
 
 <p align="center">
-  <img src="https://leonandres.github.io/lion-programmer.png" width="120" alt="Minimal Java Avatar" />
+  <img src="https://leonandres.github.io/lion-programmer.png" width="120" style="border-radius:50%;" alt="avatar de León Andrés"/>
 </p>
 
 <p align="center">
