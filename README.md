@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🌎 <a href="#spanish">Español</a> | <a href="#english">English</a></b>
+  <b><a href="#spanish">Español</a> | <a href="#english">English</a></b>
 </p>
 
 <a name="spanish"></a>
