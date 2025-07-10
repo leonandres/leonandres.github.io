@@ -30,7 +30,7 @@ Desarrollador con experiencia en Java (Swing, Spring Boot, JSF, MVC, JSP), optim
 
 ### 🛠️ Skills
 
-Java · C# · Python · Go · Spring Boot · JSF · Bootstrap · HTML · CSS · JavaScript · Razor Pages · JUnit · Optimización SQL
+Java · C# · Python · Go · Spring Boot · JSP - JSF · Bootstrap · HTML · CSS · JavaScript · Razor Pages · JUnit · Optimización SQL
 
 ---
 
