@@ -10,9 +10,9 @@
 
 <a name="spanish"></a>
 
-## 👋 ¡Hola! Soy León Andrés
+## 👋 ¡Hola! Soy Andrés 🦁
 
-Desarrollador con experiencia en Java (Swing, Spring Boot, JSF, MVC, JSP), optimización SQL (PostgreSQL, OraclePL/SQL) y actualmente aprendiendo C#, Python y Go. Me apasiona el código limpio, la eficiencia y la creatividad tecnológica.
+Desarrollador con experiencia en Java (Swing, Spring Boot, JSP, JSF, MVC), C#, optimización SQL (PostgreSQL, OraclePL/SQL) y actualmente aprendiendo Python y Go. Me apasiona el código limpio, la eficiencia y la creatividad tecnológica.
 
 <!-- Puedes agregar un enlace a tu portfolio aquí -->
 🔗 [Mi Portfolio](https://leonandres.github.io/)
@@ -30,7 +30,7 @@ Desarrollador con experiencia en Java (Swing, Spring Boot, JSF, MVC, JSP), optim
 
 ### 🛠️ Skills
 
-Java · C# · Python · Go · Spring Boot · JSP - JSF · Bootstrap · HTML · CSS · JavaScript · Razor Pages · JUnit · Optimización SQL
+Java · JSP - JSF · Spring Boot · C# · Python · Go · Bootstrap · HTML · CSS · JavaScript · Razor Pages · JUnit · Optimización SQL
 
 ---
 
