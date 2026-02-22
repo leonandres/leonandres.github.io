@@ -28,6 +28,16 @@ Trabajo principalmente con con APIs REST, modelado relacional y buenas práctica
 - <span style="font-size:1.4em;">💿</span> <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
   Sistema de gestión para disquerías, enfocado en organización y ventas de discos.
 
+  ### 🚀 Proyectos Destacados
+
+- 🌦️ <a href="https://github.com/leonandres/weather"><u>weather</u></a>  
+  Aplicación desarrollada en Java para consumo de APIs externas.  
+  Implementa lógica de negocio clara, separación por capas y manejo de datos estructurados.
+
+- 💿 <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
+  Sistema de gestión orientado a base de datos relacional.  
+  Incluye modelado estructurado, operaciones CRUD y organización de datos enfocada en escalabilidad.
+
 ---
 
 ### 🛠️ Skills
