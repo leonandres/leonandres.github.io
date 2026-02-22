@@ -12,7 +12,9 @@
 
 ## 👋 ¡Hola! Soy Andrés 🦁
 
-Desarrollador con experiencia en Java (Swing, Spring Boot, JSP, JSF, MVC), C#, optimización SQL (PostgreSQL, OraclePL/SQL) y actualmente aprendiendo Python y Go. Me apasiona el código limpio, la eficiencia y la creatividad tecnológica.
+Java Backend Developer enfocado en Spring Boot, bases de datos relacionales y documentación. Experiencia optimizando consultas SQL en entornos empresariales (Oracle PL/SQL, PostgreSQL), mejorando rendimiento y eficiencia en sistemas productivos. 
+
+Trabajo principalmente con con APIs REST, modelado relacional y buenas prácticas de diseño orientado a la escalabilidad.
 
 <!-- Puedes agregar un enlace a tu portfolio aquí -->
 🔗 [Mi Portfolio](https://leonandres.github.io/)
