@@ -56,11 +56,11 @@ Trabajo principalmente con con APIs REST, modelado relacional y buenas práctica
 
 ---
 
-### 🌱 Sobre Mí
+### 🎯 Enfoque Profesional
 
-- Interesado en la intersección entre emociones y tecnología
-- Siempre aprendiendo algo nuevo
-- Buscando aportar a proyectos interesantes
+- Interesado en desarrollo backend con Java y Spring Boot
+- Enfocado en rendimiento y optimización de bases de datos, pruebas y automatización.
+- Buscando oportunidades para aportar en diseño de APIs y mejora de sistemas existentes
 
 ---
 
