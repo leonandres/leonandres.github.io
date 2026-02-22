@@ -1,41 +1,51 @@
 <!-- Perfil de LeonAndres | GitHub README -->
 
 <p align="center">
-  <img src="https://leonandres.github.io/lion-programmer.png" width="120" style="border-radius:50%;" alt="avatar de León Andrés"/>
+  <img src="https://leonandres.github.io/lion-programmer.png" width="120" alt="avatar de León Andrés"/>
 </p>
 
 <p align="center">
   <b><a href="#spanish">Español</a> | <a href="#english">English</a></b>
 </p>
 
+---
+
 <a name="spanish"></a>
 
-## 👋 ¡Hola! Soy Andrés 🦁
+## 👋 Hola, soy Andrés
 
-Java Backend Developer enfocado en Spring Boot, bases de datos relacionales y documentación. Experiencia optimizando consultas SQL en entornos empresariales (Oracle PL/SQL, PostgreSQL), mejorando rendimiento y eficiencia en sistemas productivos. 
+**Java Backend Developer | Spring Boot | Optimización SQL**
 
-Trabajo principalmente con con APIs REST, modelado relacional y buenas prácticas de diseño orientado a la escalabilidad.
+Desarrollador enfocado en backend con experiencia en construcción de APIs REST y trabajo con bases de datos relacionales.  
+He trabajado optimizando consultas SQL en entornos productivos (PostgreSQL / Oracle), reduciendo tiempos de ejecución de minutos a segundos.
 
-<!-- Puedes agregar un enlace a tu portfolio aquí -->
-🔗 [Mi Portfolio](https://leonandres.github.io/)
+Me interesa el desarrollo en general: backend, mobile, Go, Python y tecnologías emergentes. Actualmente mi foco profesional está en backend Java mientras continúo ampliando mi stack.
 
 ---
 
-  ### 🚀 Proyectos Destacados
+### 📈 Impacto Técnico
+
+**Optimización de consulta SQL en producción**
+
+- Reducción de tiempo de ejecución de ~6–7 minutos a ~30 segundos  
+- Análisis de plan de ejecución y optimización de joins e índices  
+- Mejora significativa en tiempos de respuesta del sistema
+
+---
+
+### 🚀 Proyectos Destacados
 
 - 🌦️ <a href="https://github.com/leonandres/weather"><u>weather</u></a>  
-  Aplicación desarrollada en Java para consumo de APIs externas.  
-  Implementa lógica de negocio clara, separación por capas y manejo de datos estructurados.
+  Aplicación Java que consume APIs externas con estructura por capas y manejo claro de datos.
 
 - 💿 <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
-  Sistema de gestión orientado a base de datos relacional.  
-  Incluye modelado estructurado, operaciones CRUD y organización de datos enfocada en escalabilidad.
+  Sistema de gestión orientado a base de datos relacional con modelado estructurado y operaciones CRUD.
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Stack Técnico
 
-**Backend**
+**Backend (principal)**
 - Java
 - Spring Boot
 - APIs REST
@@ -46,21 +56,21 @@ Trabajo principalmente con con APIs REST, modelado relacional y buenas práctica
 - PostgreSQL
 - Oracle PL/SQL
 - Modelado relacional
-- Optimización de consultas
+- Optimización SQL
 
-**Otros**
+**Otros conocimientos**
 - C#
-- Python 
-- Git/GitHub
+- Python (en aprendizaje)
+- Go (en exploración)
+- HTML / CSS / Bootstrap (nivel básico)
+- Git
 - JUnit
 
 ---
 
 ### 🎯 Enfoque Profesional
 
-- Interesado en desarrollo backend con Java y Spring Boot
-- Enfocado en rendimiento y optimización de bases de datos, pruebas y automatización.
-- Buscando oportunidades para aportar en diseño de APIs y mejora de sistemas existentes
+Busco oportunidades como Java Backend Developer donde pueda aportar en diseño de APIs, optimización de bases de datos y mejora de rendimiento, mientras continúo expandiendo mi experiencia en otras tecnologías.
 
 ---
 
@@ -72,34 +82,65 @@ Trabajo principalmente con con APIs REST, modelado relacional y buenas práctica
 
 <a name="english"></a>
 
-## 👋 Hi! I'm León Andrés
+## 👋 Hi, I'm Andrés
 
-Developer with experience in Java (Swing, Spring Boot, JSF, MVC, JSP), SQL optimization (PostgreSQL, OraclePL/SQL), and currently learning C#, Python, and Go. Passionate about clean code, efficiency, and tech creativity.
+**Java Backend Developer | Spring Boot | SQL Optimization**
 
-🔗 [My Portfolio](https://leonandres.github.io/)
+Backend-focused developer experienced in building REST APIs and working with relational databases.  
+I have optimized SQL queries in production environments (PostgreSQL / Oracle), reducing execution time from minutes to seconds.
+
+Although my professional focus is currently Java backend development, I am broadly interested in software development including mobile, Go, Python, and emerging technologies.
+
+---
+
+### 📈 Technical Impact
+
+**SQL Query Optimization in Production**
+
+- Reduced execution time from ~6–7 minutes to ~30 seconds  
+- Analyzed execution plans and optimized joins and indexing  
+- Improved overall system response time
 
 ---
 
 ### 🚀 Highlighted Projects
 
-- <span style="font-size:1.4em;">🌦️</span> <a href="https://github.com/leonandres/weather"><u>weather</u></a>  
-  Weather app built with Java and modern technologies.
-- <span style="font-size:1.4em;">💿</span> <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
-  Record store management system focused on organization and sales.
+- 🌦️ <a href="https://github.com/leonandres/weather"><u>weather</u></a>  
+  Java application consuming external APIs with clear layered structure and data handling.
+
+- 💿 <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
+  Database-driven management system with structured relational modeling and CRUD operations.
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Technical Stack
 
-Java · C# · Python · Go · Spring Boot · JSF · Bootstrap · HTML · CSS · JavaScript · Razor Pages · JUnit · SQL Optimization
+**Primary Focus – Backend**
+- Java
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+- MVC Architecture
+
+**Databases**
+- PostgreSQL
+- Oracle PL/SQL
+- Relational modeling
+- SQL performance tuning
+
+**Additional Knowledge**
+- C#
+- Python (learning)
+- Go (exploring)
+- Basic HTML / CSS / Bootstrap
+- Git
+- JUnit
 
 ---
 
-### 🌱 About Me
+### 🎯 Professional Focus
 
-- Interested in the intersection of emotions and technology
-- Always learning something new
-- Looking to contribute to interesting projects
+Seeking opportunities as a Java Backend Developer while continuing to expand my expertise across different areas of software development.
 
 ---
 
