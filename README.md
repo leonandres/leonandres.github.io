@@ -35,7 +35,24 @@ Trabajo principalmente con con APIs REST, modelado relacional y buenas práctica
 
 ### 🛠️ Skills
 
-Java · JSP - JSF · Spring Boot · C# · Python · Go · Bootstrap · HTML · CSS · JavaScript · Razor Pages · JUnit · Optimización SQL
+**Backend**
+- Java
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Arquitectura MVC
+
+**Bases de Datos**
+- PostgreSQL
+- Oracle PL/SQL
+- Modelado relacional
+- Optimización de consultas
+
+**Otros**
+- C#
+- Python 
+- Git/GitHub
+- JUnit
 
 ---
 
