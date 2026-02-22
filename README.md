@@ -21,13 +21,6 @@ Trabajo principalmente con con APIs REST, modelado relacional y buenas práctica
 
 ---
 
-### 🚀 Proyectos Destacados
-
-- <span style="font-size:1.4em;">🌦️</span> <a href="https://github.com/leonandres/weather"><u>weather</u></a>  
-  Aplicación para consultar el clima, desarrollada con Java y tecnologías modernas.
-- <span style="font-size:1.4em;">💿</span> <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
-  Sistema de gestión para disquerías, enfocado en organización y ventas de discos.
-
   ### 🚀 Proyectos Destacados
 
 - 🌦️ <a href="https://github.com/leonandres/weather"><u>weather</u></a>  
