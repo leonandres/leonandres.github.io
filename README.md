@@ -70,7 +70,7 @@ Me interesa el desarrollo en general: backend, mobile, Go, Python y tecnologías
 
 ### 🎯 Enfoque Profesional
 
-Busco oportunidades como Java Backend Developer donde pueda aportar en diseño de APIs, optimización de bases de datos y mejora de rendimiento, mientras continúo expandiendo mi experiencia en otras tecnologías.
+Java Backend Developer enfocado en el desarrollo de sistemas escalabes, diseño de APIs, optimización de bases de datos y mejora de rendimiento en sistemas reales.
 
 ---
 
