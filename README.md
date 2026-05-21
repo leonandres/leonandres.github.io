@@ -41,6 +41,9 @@ Me interesa el desarrollo en general: backend, mobile, Go, Python y tecnologías
 - 💿 <a href="https://github.com/leonandres/leon.disqueria"><u>leon.disqueria</u></a>  
   Sistema de gestión orientado a base de datos relacional con modelado estructurado y operaciones CRUD.
 
+- 🏥 GiSalud (ex SiSalud)  
+  Sistema de gestión de turnos para salud pública de Chubut. Backend Java 1.8 + JSF/PrimeFaces, PostgreSQL y optimización de consultas.  
+  *Proyecto gubernamental — demo bajo NDA. Validación disponible.*
 ---
 
 ### 🛠️ Stack Técnico
